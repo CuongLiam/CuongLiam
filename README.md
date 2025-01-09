@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVrM3M3a3JqbHJyZ3V0NGQwYzVleGhrc25samR3YnVobHdoYWRnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3kJXwDqa760htH5ZJe/giphy.gif"   />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcng0bGJpczRvdmxzNGJiMDU2Njh3Y2JkZm5mOHN0bXNoOGEwejA1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64VjZWm6RZGUmn2PKF/giphy.gif"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXlvdGNpd2k5a3F6a2g3bGdkOGJmdmN5eTE4MmgxZzE4b2VhNjFrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oJNGcsjGW2S7Osj70P/giphy.gif"  />
 
 ###
 
