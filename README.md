@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! The name is Liam and I'm just a random guy</h2>
+<h2 align="left">Hi ! The name is Liam and I'm just a random guy :)</h2>
 
 ###
 
