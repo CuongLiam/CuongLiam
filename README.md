@@ -52,7 +52,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczB6a3ExcW9ncTFxdXRkdGM3dWl3czgxaWZwZXgwMXRrNzI3M2s1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pnDwA1zLAfbYiySdJo/giphy.gif"   />
+<!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcng0bGJpczRvdmxzNGJiMDU2Njh3Y2JkZm5mOHN0bXNoOGEwejA1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/64VjZWm6RZGUmn2PKF/giphy.gif"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2plNXQ4Nzl1aGNlbTZzOWs1cjRla255eWNoZ3g3cDdyaWVsMDZ2NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7beFLKrpRTbOcEw/giphy.gif"  /> -->
+</div>
 
 
 
