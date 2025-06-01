@@ -1,6 +1,6 @@
 <h2 align="left">Hi ! The name is Liam and I'm just a random guy :)</h2>
 
-###
+
 <!-- 
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVrM3M3a3JqbHJyZ3V0NGQwYzVleGhrc25samR3YnVobHdoYWRnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3kJXwDqa760htH5ZJe/giphy.gif"   />
